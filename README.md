@@ -1,2 +1,2 @@
-### Data Science student at the University of Melbourne 🧙
-Personal Website: [lucas-fern.tech](https://lucas-fern.tech/)
+### Data Science Graduate from the University of Melbourne 🧙
+Personal Website: [lfern.com](https://www.lfern.com)
